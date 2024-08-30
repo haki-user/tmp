@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: funplex-testtttt
+  title: Funplex tessst
+  description: Funplex development windows application
+  annotations:
+    dev.azure.com/project-repo: "rgdevorg/Salem Seats"
+spec:
+  type: service
+  lifecycle: test
+  owner: funplex
