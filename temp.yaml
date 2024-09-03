@@ -5,7 +5,7 @@ metadata:
   title: Funplex tessst
   description: Funplex development windows application
   annotations:
-    dev.azure.com/project-repo: rgdevorg/Domigo
+    dev.azure.com/project-repo: Domigo/DomigoWebApp
 spec:
   type: service
   lifecycle: test
